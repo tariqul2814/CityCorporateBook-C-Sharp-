@@ -1,0 +1,70 @@
+D:\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.exe.config
+D:\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.exe
+D:\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.pdb
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.csprojResolveAssemblyReference.cache
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Form1.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Properties.Resources.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.csproj.GenerateResource.Cache
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.exe
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.pdb
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electionadd.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electionopeningform.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Confirm.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetail.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayoropening.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorprofile.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwatchpost.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwritepost.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mypost.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.PasswordChange.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.updateform.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.updelform.resources
+D:\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetailview.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.exe.config
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.exe
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\bin\Debug\citycorporate.pdb
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.csprojResolveAssemblyReference.cache
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Confirm.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electionadd.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetail.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetailview.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.electionopeningform.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Form1.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayoropening.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorprofile.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwatchpost.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwritepost.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.mypost.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.PasswordChange.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.Properties.Resources.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.updateform.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.updelform.resources
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.csproj.GenerateResource.Cache
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.exe
+C:\Users\Tariqul\Desktop\New folder\citycorporate\citycorporate\obj\Debug\citycorporate.pdb
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\bin\Debug\citycorporate.exe.config
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\bin\Debug\citycorporate.exe
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\bin\Debug\citycorporate.pdb
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.csprojResolveAssemblyReference.cache
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.Confirm.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.electionadd.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetail.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.electiondetailview.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.electionopeningform.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.Form1.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.mayoropening.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.mayorprofile.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwatchpost.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.mayorwritepost.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.mypost.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.PasswordChange.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.Properties.Resources.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.updateform.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.updelform.resources
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.csproj.GenerateResource.Cache
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.exe
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.pdb
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\bin\Debug\citycorporate.exe.manifest
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\bin\Debug\citycorporate.application
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.exe.manifest
+C:\Users\Tariqul\Desktop\Final1\citycorporate\citycorporate\obj\Debug\citycorporate.application
